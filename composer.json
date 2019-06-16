@@ -1,0 +1,24 @@
+{
+  "name": "greadog/app",
+  "authors": [
+    {
+      "name": "hooklife",
+      "email": "miaogaopeng123@gmail.com"
+    }
+  ],
+  "require": {
+    "greadog/framework": "@dev",
+    "league/route": "^4.2",
+    "ilexn/swoole-convent-psr7": "@dev"
+  },
+  "repositories": [
+    {
+      "type": "path",
+      "url": "/Users/hooklife/Projects/framework"
+    },
+    {
+      "url": "https://github.com/iLexN/swoole-psr7",
+      "type": "git"
+    }
+  ]
+}
